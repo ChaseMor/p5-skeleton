@@ -6,7 +6,7 @@
   "scripts": {
     "compile": "tsc -p ./src",
     "webpack": "webpack",
-    "package": "npm run compile && npm run bundle"
+    "package": "npm run compile && npm run webpack"
   },
   "author": "",
   "license": "ISC",
